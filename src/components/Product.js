@@ -52,6 +52,7 @@ const ProducrWrapper =styled.div`
 .card{
     border-color:tranparent;
     transition:all 1s linear;
+    border-radius:20px;
 }
 .card-footer{
     background:transparent;
